@@ -1,5 +1,5 @@
 > [!WARNING]  
-> The following code may be too shitty for the weak of heart, if you have trouble reading the following code please seek a medical professinal.
+> The following code may be too shitty for the weak of heart, if you have trouble reading the following code please seek a medical professinal.<br><br>Reader discretion is advised.
 
 <!--
 **NGSpace/NGSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
