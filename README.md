@@ -11,6 +11,7 @@ What I am currently working on?
 * Hudder (My favorite child)
 * My website (I have ~~another son~~ a website?)
 * Maybe one day I'll give NNUEdit a bit of love ("Ever since you met Zed you have been ignoring me" - NNUEdit, probably)
+* My Job as a profesinal high school student at [REDACTED] high school in the city of [REDACTED] in the country of the people who can't eat bread for a week because a group of people 3000~ years ago were in a hurry.
 
 
 
