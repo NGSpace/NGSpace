@@ -3,16 +3,24 @@
 
 
 What I am currently working on?
-* My mental health
-* My ego
 * Not dying
-* Not being kidnapped and tortured to the point of death
-* Staying alone in my room, typing to people who might read this
+* Not being kidnapped and tortured to the point of wishing for death
+* Breathing
+* Staying alone in my room, hoping people might read this
 * Hudder (My favorite child)
+* V2Engine (Second place in my heart)
 * My website (I have ~~another son~~ a website?)
-* Maybe one day I'll give NNUEdit a bit of love ("Ever since you met Zed you have been ignoring me" - NNUEdit, probably)
+* Maybe one day I'll give NNUEdit a bit of love (keyword "maybe")
 * My Job as a profesinal high school student at [REDACTED] high school in the city of [REDACTED] in the country of the people who can't eat bread for a week because a group of people 3000~ years ago were in a hurry.
 
+
+What languages I know:
+* Java
+* C#
+* Hebrew
+* English
+* JS (One day frontend devs will get justice against those who made JS)
+* a bit of C
 
 
 ### According to this website my score is very noice:
