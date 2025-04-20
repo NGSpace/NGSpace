@@ -8,10 +8,10 @@ What I am currently working on?
 * Breathing
 * Staying alone in my room, hoping people might read this
 * Hudder (My favorite child)
-* V2Engine (Second place in my heart)
-* My website (I have ~~another son~~ a website?)
-* Maybe one day I'll give NNUEdit a bit of love (keyword "maybe")
+* My website
+* NNUEdit is dead for the rest of time, there is no hope for it.
 * My Job as a profesinal high school student at [REDACTED] high school in the city of [REDACTED] in the country of the people who can't eat bread for a week because a group of people 3000~ years ago were in a hurry.
+* Not being driven to death by my own mind (This one is getting hard to maintain)
 
 
 What languages I know:
@@ -22,6 +22,5 @@ What languages I know:
 * JS (One day frontend devs will get justice against those who made JS)
 * a bit of C
 
-
-### According to this website my score is very noice:
-![image](https://github.com/user-attachments/assets/b8fe995a-1e54-4642-9dc2-da13065b34eb)
+My political beliefs:
+I am liberal. I hate the CCP/PRC. I hate fascism. I hate communism. I think LGBTQIA+ people should be allowed to exist (controversial, ik). I think people have become too radicalized and should stop limiting themselves over other's political beliefs. I think both the right wing and left wing wants to take away your rights. I think it is important to voice your opinion by protest and use your rights so they can't be taken away from you.
