@@ -22,4 +22,5 @@ What languages I know:
 * a bit of C
 
 My political beliefs:
-I am liberal. I hate the CCP/PRC. I hate fascism. I hate communism. I think LGBTQIA+ people should be allowed to exist (controversial, ik). I think people have become too radicalized and should stop limiting themselves over other's political beliefs. I think both the right wing and left wing wants to take away your rights. I think it is important to voice your opinion by protest and use your rights so they can't be taken away from you.
+I am liberal. I hate the CCP/PRC. I hate fascism. I hate communism. I think LGBTQIA+ people should be allowed to exist. I think people have become too radicalized and should stop limiting themselves over other's political beliefs. I think both the right wing and left wing want to take away your rights. I think it is important to voice your opinion by protest and use your rights so they can't be taken away from you.
+Controversial shit, ik.
